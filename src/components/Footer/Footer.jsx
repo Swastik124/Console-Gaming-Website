@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="container text-center">
           <h1 className="text-3xl font-bold">Let's Play the Game</h1>
           <hr className="w-[150px] mx-auto my-4" />
-          <p className="text-white/70">Made with ❤️ by Dilshad</p>
+          <p className="text-white/70">DIVE INTO THE WORLD OF PURE GAMING</p>
         </div>
       </div>
     </>
