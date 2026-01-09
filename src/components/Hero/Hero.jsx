@@ -20,13 +20,13 @@ const Hero = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 items-center">
               {/* content section */}
               <div className="text-center sm:text-left pt-10 sm:pt-0">
-                <p className="text-lg text-blue-500 font-semibold">
+                <p className="text-lg text-purple-500 font-semibold">
                   Discover Games You will Love
                 </p>
                 <h1 className="text-5xl font-bold text-white">
                   Read About Games That You Enjoy
                 </h1>
-                <button className="mt-8 bg-gradient-to-r from-blue-500 to-blue-800 inline-block px-6 py-3 rounded-2xl font-semibold text-white">
+                <button className="mt-8 bg-gradient-to-r from-purple-500 to-purple-800 inline-block px-6 py-3 rounded-2xl font-semibold text-white">
                   Start Exploring
                 </button>
               </div>
